@@ -1,2 +1,2 @@
 # EGWM-Feeling-the-AGI
-Emotion-Gated World Models (EGWM): a simple architecture for continual learning with emotion-like meta control.
+you don't have to build a "Smart AI." You just have to build a "Safe Room" so strict that the AI has to become smart just to survive.
