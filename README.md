@@ -1,6 +1,6 @@
 ## 🧠 Zero-Trust Autonomous Runtime — Reference Architecture
 
-![Zero-Trust Autonomous Runtime Architecture](IMG_2385.jpeg)
+![Zero-Trust Autonomous Runtime Architecture](B4BD5911-5979-4D2B-8B3F-348E9B6D52DB.png)
 
 
 **Figure 1 — Zero-Trust Autonomous Runtime**
