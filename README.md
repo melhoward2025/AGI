@@ -1,1 +1,1 @@
-(141DC255-835D-427C-9B4C-F23077171103.png)
+![Intelligence boundaries diagram](141DC255-835D-427C-9B4C-F23077171103.png)
